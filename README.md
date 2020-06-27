@@ -1,1 +1,1 @@
-# This connects to SFDC and send batch upload
+# This connects to SFDC and send batch upload on scheduled basis - 10 min
